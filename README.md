@@ -6,4 +6,4 @@
 
 ## Projects
 - Discord Bot
-- Bootstrap Website
+- A Website
